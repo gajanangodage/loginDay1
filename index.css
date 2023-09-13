@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+#Login{
+    background-color: aliceblue;
+   margin-left: 250px;
+   margin-right: 350px;
+    height: 350px;
+    margin-top: 152px;
+    text-align: center;
+}
+h2{
+    color: black;
+}
+form{
+    color: black;
+}   
+#heading{
+    margin-left: 150px;
+}
